@@ -9,7 +9,7 @@ AICTE Internship Project
 # CNN model predects the image but with less accuracy and has slower prediction.
 # Meanwhile the MobileNetV2(image net) model is much faster as compared to CNN model as it also provides the class of that particular object and with accurate to 90% accuracy.
 
-# Here i ave created an app using the Streamlit module.
+# Here i have created an app using the Streamlit module.
 
 # I made this app using the Google Colab by using the module pyngrok, because it helped to directly run this streamlit app output on the browser. 
 #As the google colab does not provide direct output for the streamlit application. Therefor the pyngrok helped me to create a tunnel from google colab and helped me to get the output
